@@ -225,7 +225,7 @@ body .container .grid-container .card img {
     font-size: 3em;
   }
   body .container .grid-container .card h2 {
-    font-size: clamp(1.5rem, 2.5vw, 2rem);
+    font-size: clamp(1.5rem, 2.5vw, 1.9rem);
     font-weight: var(--font-weight-600);
   }
   body .container .grid-container .card img {
