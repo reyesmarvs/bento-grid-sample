@@ -170,7 +170,7 @@ body .container .grid-container .card img {
   }
   body .container .grid-container .card:nth-child(3) img {
     min-width: unset;
-    margin-bottom: -93px;
+    margin-bottom: -105px;
   }
   body .container .grid-container .card:nth-child(4) {
     grid-column-start: 4;
